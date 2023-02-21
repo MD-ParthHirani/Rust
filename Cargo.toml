@@ -6,3 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+bson = "2.5.0"
+chrono = "0.4.23"
+dson = "0.0.0"
+mongodb = "2.3.1"
+tokio = "1.25.0"
